@@ -1,4 +1,4 @@
-# Awesome Skeleton for modern development on PHP 7.1+ and RoadRunner
+## Awesome Skeleton for modern development on PHP 7.1+ and RoadRunner
 
 ## Installation (via composer)
 
